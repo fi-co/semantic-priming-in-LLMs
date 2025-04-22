@@ -37,6 +37,8 @@ These serve as frameworks to assess **whether semantic associations in LLMs refl
 This repository is a **work-in-progress**. 
 I am pulling scripts from my working station to git, but it takes time to polish the code and make sure everything works well.
 
+If you are curious about the experimentation regime and how did it go, see the pdf version of my report.
+
 ---
 
 ## 🧠 Author
