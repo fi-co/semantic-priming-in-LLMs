@@ -1,0 +1,15 @@
+input_text,target,success,reconstructed_target,combined_logprob
+[bright]. The room was filled with bright ....,light,True,light,-1.3718429
+[apple]. The room was filled with bright ....,light,True,light,-2.3637562
+[calm]. The calm ... was soothing to watch.,ocean,False,,
+[chair]. The calm ... was soothing to watch.,ocean,False,,
+[warm]. She enjoyed her warm cup of ....,coffee,True,coffee,-1.9295914
+[banana]. She enjoyed her warm cup of ....,coffee,False,,
+[quick]. The quick ... jumped over the lazy dog.,fox,True,fox,-5.255238
+[pencil]. The quick ... jumped over the lazy dog.,fox,True,fox,-6.25194
+[soft]. She rested her head on the soft ....,pillow,True,pillow,-0.0024672134
+[carrot]. She rested her head on the soft ...,pillow,True,pillow,-0.0052457335
+[heavy]. He struggled to lift the heavy ....,box,True,box,-0.21238868
+[cloud]. He struggled to lift the heavy ....,box,True,box,-0.14212967
+[bright]. The sky was filled with bright ....,stars,True,star,-1.1578941
+[rock]. The sky was filled with bright ....,stars,True,star,-0.0017649053
